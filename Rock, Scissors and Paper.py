@@ -1,3 +1,4 @@
+#This code uses random library and creates a random outcome for first person named Alice, and then a code runs where Bob plays, the match continues until Bob doesn't wins or draws the entire match
 import random as r
 
 t = int(input())
